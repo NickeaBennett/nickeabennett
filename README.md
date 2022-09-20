@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Future projects
 - 🤔 I’m looking for help with Future project
 - 💬 Ask me about anything
-- 📫 How to reach me: Check bio
+- 📫 How to reach me: Check sidbar
 - ⚡ Fun fact: ...
