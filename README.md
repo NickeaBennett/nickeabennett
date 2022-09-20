@@ -1,4 +1,4 @@
-### Greetings 👋
+### Greetings World👋
 
 - 🔭 I’m currently working on Capstone project
 - 🌱 I’m currently learning Full Stack Software Engineering
