@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Capstone project
 - 🌱 I’m currently learning Full Stack Software Engineering
-- 👯 I’m looking to collaborate on future projects
+- 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with future projects
 - 💬 Ask me about anything
 - 📫 How to reach me: Check sidebar
