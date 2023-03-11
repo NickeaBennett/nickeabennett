@@ -1,6 +1,6 @@
 ### Greetings World👋
 
-- 🔭 I’m currently working on Capstone project
+- 🔭 I’m currently working on Peronal projects
 - 🌱 I’m currently learning Full Stack Software Engineering
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with future projects
